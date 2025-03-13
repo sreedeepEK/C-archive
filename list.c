@@ -15,7 +15,7 @@ int main(void)
     list[1] = 2;
     list[2] = 3;
 
-    // Allocate memory for 4 integers
+    // Allocate memory for 4 integers   
     int *tmp = malloc(4 * sizeof(int));
     if (tmp == NULL)
     {
