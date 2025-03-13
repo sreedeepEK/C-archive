@@ -12,7 +12,7 @@ struct Player
 
 int main()
 {
-    // struct= collection of relateed member (variable)
+    // struct= collection of related member (variable)
     // they can be of different data type
     // listed under one name in a block of memory (like class in python)
 
